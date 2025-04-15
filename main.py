@@ -3,7 +3,7 @@ import pandas as pd
 
 
 def main():
-    st.title("Techcom Finance Calculator")
+    st.title("TST Finance Calculator")
     
     # Project type selection dropdown
     project_type = st.selectbox(
