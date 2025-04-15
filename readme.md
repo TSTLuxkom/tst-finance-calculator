@@ -1,4 +1,4 @@
-# Techcom Finance Calculator
+# TST Finance Calculator
 
 ## Overview
 A Streamlit application for calculating financial costs for TST projects based on employee timesheet data and rate information.
