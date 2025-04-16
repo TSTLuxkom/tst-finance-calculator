@@ -14,11 +14,10 @@ pip install streamlit pandas
 ```
 
 ## How to Run
-1. Save the script as `techcom_finance_calculator.py`
-2. Open a terminal and navigate to the directory containing the script
+1. Open a terminal and navigate to the directory containing the script
 3. Run the application using Streamlit:
    ```bash
-   streamlit run techcom_finance_calculator.py
+   streamlit run main.py
    ```
 4. A browser window will open with the application interface
 
